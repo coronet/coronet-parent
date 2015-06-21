@@ -1,2 +1,2 @@
 # coronet-parent
-Parent POM for Coronet projects
+The parent POM for Coronet projects.
