@@ -10,6 +10,13 @@
   <description>The parent POM for Coronet projects</description>
   <url>https://github.com/coronet</url>
 
+  <scm>
+    <connection>scm:git:ssh://git@github.com/coronet/coronet-parent.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/coronet/coronet-parent.git</developerConnection>
+    <url>https://github.com/coronet/coronet-parent</url>
+    <tag>HEAD</tag>
+  </scm>
+
   <licenses>
     <license>
       <name>MIT License</name>
