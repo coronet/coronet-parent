@@ -3,7 +3,7 @@
 
   <groupId>io.coronet</groupId>
   <artifactId>coronet-parent</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
 
   <name>Coronet Parent POM</name>
@@ -14,7 +14,7 @@
     <connection>scm:git:ssh://git@github.com/coronet/coronet-parent.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/coronet/coronet-parent.git</developerConnection>
     <url>https://github.com/coronet/coronet-parent</url>
-    <tag>HEAD</tag>
+    <tag>coronet-parent-1.0.0</tag>
   </scm>
 
   <licenses>
